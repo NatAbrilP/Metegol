@@ -1,0 +1,21 @@
+h1 {
+    color : #000
+}
+
+.otra-tipografia { 
+    font-family: tahoma, Helvetica, sans-serif
+    ;
+};
+
+h2 {
+    font-family:tahoma, Helvetica, sans-serif
+    ;
+}
+
+h3 {
+color : #666;
+}
+
+p {
+    color: #333;
+}
